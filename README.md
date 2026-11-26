@@ -1,4 +1,4 @@
-# Yeni-y-l-kutlama-web-sayfas-
+# Yeni-yıl-kutlama-web-sayfası-
 Yılbaşında arkadaşlarım için yaptığım eğlence amaçlı proje .Yazılımcı olmanın güzel yanı bu mesleği hayatın her anına entegre yapılabilmesi.
 <!DOCTYPE html>
 <html lang="tr">
